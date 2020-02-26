@@ -1,3 +1,12 @@
+"""
+Summary of ``scrape.py``
+------------------------
+
+This module provides Python wrappers for the SEPTA APIs
+listed here: http://www3.septa.org/hackathon/
+
+"""
+
 import requests
 import pandas as pd
 import geopandas as gpd
