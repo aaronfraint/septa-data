@@ -1,0 +1,16 @@
+name: septa-data
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7*
+  - pyproj
+  - geopandas
+  - psycopg2
+  - geoalchemy2
+  - ipython
+  - tqdm
+  - jupyter
+  - jupytext
+  - geopy
+  - pandas-profiling
+  - pip
