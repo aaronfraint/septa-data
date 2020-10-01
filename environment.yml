@@ -2,15 +2,15 @@ name: septa-data
 channels:
   - conda-forge
 dependencies:
-  - python=3.7*
+  - python=3.8*
   - pyproj
   - geopandas
   - psycopg2
   - geoalchemy2
   - ipython
   - tqdm
-  - jupyter
+  - jupyterlab
   - jupytext
-  - geopy
   - pandas-profiling
+  - flake8
   - pip
